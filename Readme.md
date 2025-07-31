@@ -7,6 +7,7 @@ Para rodar este projeto na sua máquina, por favor digite:
 ```
 node apps.js
 ```
+![Static Badge](https://img.shields.io/badge/STATUS-DESENVOLVIMENTO-pink)
 
 # Meu projeto incrível
 Este projeto é uma aplicação que ajuda os usuários agerenciar suas tarefas.
